@@ -139,28 +139,20 @@
 				</configuration>
 			</plugin>
 
+
+			<!-- plugin KOMPILATOR MAVEN - NIEZBEDNY do uruchamiania projektow
+                 git huba na Jenkinsie. -->
 			<plugin>
-
 				<groupId>org.apache.maven.plugins</groupId>
-
 				<artifactId>maven-compiler-plugin</artifactId>
-
 				<version>3.8.1</version>
-
 				<configuration>
-
 					<verbose>true</verbose>
-
 					<fork>true</fork>
-
 					<!--suppress UnresolvedMavenProperty -->
 					<executable>${JAVA_HOME}/bin/javac</executable>
-
 				</configuration>
-
 			</plugin>
-
-
 		</plugins>
 
 		<!-- aby móc używać log4j trzeba dodać  -->
