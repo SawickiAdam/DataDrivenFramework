@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="06f85b24-726b-4e51-91a2-159e098112bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/testcases/AddCustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/testcases/AddCustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/testcases/OpenAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/testcases/OpenAccountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/logs/Application.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logs/Application.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/logs/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logs/selenium.log" afterDir="false" />
     </list>
@@ -22,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/AddCustomerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+            <state relative-caret-position="221">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -31,17 +32,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/BankManagerLoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state relative-caret-position="259">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/OpenAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="201">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -94,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -126,13 +127,13 @@
         <option value="$PROJECT_DIR$/src/test/resources/properties/Config.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/w2a/utilities/TestConfig.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/w2a/testcases/BankManagerLoginTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/w2a/testcases/AddCustomerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/w2a/testcases/OpenAccountTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/w2a/utilities/TestUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/w2a/listeners/CustomListeners.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/w2a/utilities/ExtentManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/w2a/base/TestBase.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/w2a/testcases/AddCustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/w2a/testcases/OpenAccountTest.java" />
       </list>
     </option>
   </component>
@@ -307,7 +308,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593457084811" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593457318494" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jre1.8.0_201" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -374,7 +375,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593186015105</updated>
       <workItem from="1593186018735" duration="31632000" />
-      <workItem from="1593270784206" duration="38481000" />
+      <workItem from="1593270784206" duration="39162000" />
     </task>
     <task id="LOCAL-00001" summary="added plugin">
       <created>1593450896105</created>
@@ -383,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593450896106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added plugin">
+      <created>1593457291679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593457291679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -419,7 +427,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70113000" />
+    <option name="totallyTimeSpent" value="70794000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,7 +442,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49763033" visible="true" weight="0.25182188" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49763033" visible="true" weight="0.25182188" />
       <window_info id="Structure" order="1" sideWeight="0.50236964" side_tool="true" weight="0.20894308" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -443,7 +451,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50442475" side_tool="true" weight="0.20894308" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45115453" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39431617" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39928058" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -715,27 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/OpenAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/BankManagerLoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/AddCustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/utilities/ExtentManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -785,6 +772,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="157" column="36" lean-forward="true" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/AddCustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/BankManagerLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/OpenAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>

@@ -31,7 +31,7 @@ public class AddCustomerTest extends TestBase {
 		log.debug("Wpisane nazwisko to " + data.get("lastname"));
 		type("postcode_CSS",data.get("postcode"));
 		log.debug("Wpisany postcode to " + data.get("postcode"));
-		click("addbtn_CSSsssssssssssss");
+		click("addbtn_CSS");
 		log.debug("Wcisnięto button 'add customer'");
 		Thread.sleep(2000);
 		Alert alert = wait.until(ExpectedConditions.alertIsPresent());
