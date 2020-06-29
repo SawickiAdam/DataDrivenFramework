@@ -166,15 +166,19 @@
 		</testResources>
 	</build>
 
+
+	<!-- to dodalem bo jenkins krzyczał żeby dodać repozytorium
+ Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7
+ :deploy (default-deploy) on project DataDrivenFramework: Deployment failed:
+  repository element was not specified in the POM inside
+   distributionManagement element or in -DaltDeploymentRepository=id
+   ::layout::url parameter -->
 	<distributionManagement>
 		<repository>
 			<id>internal.repo</id>
 			<name>Internal repo</name>
-			<url>C:\Users\t460si7\.jenkins\internalRepo</url>
+			<url>file:///home/thara/testesb/in</url>
 		</repository>
 	</distributionManagement>
-
-
-
-
+	
 </project>
