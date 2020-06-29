@@ -170,7 +170,7 @@
 		<repository>
 			<id>internal.repo</id>
 			<name>Internal repo</name>
-			<url>file:///home/thara/testesb/in</url>
+			<url>C:\Users\t460si7\.jenkins\internalRepo</url>
 		</repository>
 	</distributionManagement>
 
