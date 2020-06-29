@@ -8,6 +8,8 @@
 	<dependencies>
 
 
+
+
 		<!-- Dodane TestNG -->
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -135,10 +137,26 @@
 
 					</suiteXmlFiles>
 				</configuration>
+			</plugin>
 
+			<plugin>
 
+				<groupId>org.apache.maven.plugins</groupId>
 
+				<artifactId>maven-compiler-plugin</artifactId>
 
+				<version>3.8.1</version>
+
+				<configuration>
+
+					<verbose>true</verbose>
+
+					<fork>true</fork>
+
+					<!--suppress UnresolvedMavenProperty -->
+					<executable>${JAVA_HOME}/bin/javac</executable>
+
+				</configuration>
 
 			</plugin>
 
