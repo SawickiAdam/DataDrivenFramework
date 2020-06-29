@@ -15,8 +15,8 @@ public class BankManagerLoginTest extends TestBase {
 	@Test
 	public void bankManagerLoginTest() throws InterruptedException, IOException{
 		
-		
-		verifyEquals("abc", "xyz");
+		// ta linijka powoduje soft Assercje tz assercje w try,catch
+//		verifyEquals("abc", "xyz");
 		Thread.sleep(3000);
 		log.debug("Inside Login Test");
 		click("bmlBtn_CSS");
