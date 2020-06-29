@@ -1,23 +1,23 @@
-29/06/2020 22:27:33 devpinoyLogger Config file loaded !!!
-29/06/2020 22:27:33 devpinoyLogger OR file loaded !!!
-29/06/2020 22:27:39 devpinoyLogger Chrome Launched !!!
-29/06/2020 22:27:41 devpinoyLogger Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
-29/06/2020 22:27:47 devpinoyLogger Inside Login Test
-29/06/2020 22:27:48 devpinoyLogger Login successfully executed
-29/06/2020 22:27:49 devpinoyLogger Wpisane imię to Adam 
-29/06/2020 22:27:49 devpinoyLogger Wpisane nazwisko to Sawicki
-29/06/2020 22:27:49 devpinoyLogger Wpisany postcode to A234wd
-29/06/2020 22:27:50 devpinoyLogger Wcisnięto button 'add customer'
-29/06/2020 22:27:54 devpinoyLogger Wpisane imię to Marcin
-29/06/2020 22:27:54 devpinoyLogger Wpisane nazwisko to Garbacki
-29/06/2020 22:27:54 devpinoyLogger Wpisany postcode to A234wd
-29/06/2020 22:27:54 devpinoyLogger Wcisnięto button 'add customer'
-29/06/2020 22:27:58 devpinoyLogger Wpisane imię to Ola
-29/06/2020 22:27:58 devpinoyLogger Wpisane nazwisko to Sprawka
-29/06/2020 22:27:58 devpinoyLogger Wpisany postcode to A234wd
-29/06/2020 22:27:58 devpinoyLogger Wcisnięto button 'add customer'
-29/06/2020 22:28:03 devpinoyLogger Wpisane imię to Robert
-29/06/2020 22:28:03 devpinoyLogger Wpisane nazwisko to Kot
-29/06/2020 22:28:03 devpinoyLogger Wpisany postcode to A234wd
-29/06/2020 22:28:03 devpinoyLogger Wcisnięto button 'add customer'
-29/06/2020 22:28:11 devpinoyLogger test execution completed !!!
+29/06/2020 22:35:03 devpinoyLogger Config file loaded !!!
+29/06/2020 22:35:03 devpinoyLogger OR file loaded !!!
+29/06/2020 22:35:08 devpinoyLogger Chrome Launched !!!
+29/06/2020 22:35:10 devpinoyLogger Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+29/06/2020 22:35:15 devpinoyLogger Inside Login Test
+29/06/2020 22:35:16 devpinoyLogger Login successfully executed
+29/06/2020 22:35:22 devpinoyLogger Wpisane imię to Adam 
+29/06/2020 22:35:22 devpinoyLogger Wpisane nazwisko to Sawicki
+29/06/2020 22:35:22 devpinoyLogger Wpisany postcode to A234wd
+29/06/2020 22:35:28 devpinoyLogger Wcisnięto button 'add customer'
+29/06/2020 22:35:37 devpinoyLogger Wpisane imię to Marcin
+29/06/2020 22:35:37 devpinoyLogger Wpisane nazwisko to Garbacki
+29/06/2020 22:35:37 devpinoyLogger Wpisany postcode to A234wd
+29/06/2020 22:35:42 devpinoyLogger Wcisnięto button 'add customer'
+29/06/2020 22:35:52 devpinoyLogger Wpisane imię to Ola
+29/06/2020 22:35:52 devpinoyLogger Wpisane nazwisko to Sprawka
+29/06/2020 22:35:52 devpinoyLogger Wpisany postcode to A234wd
+29/06/2020 22:35:53 devpinoyLogger Wcisnięto button 'add customer'
+29/06/2020 22:35:57 devpinoyLogger Wpisane imię to Robert
+29/06/2020 22:35:57 devpinoyLogger Wpisane nazwisko to Kot
+29/06/2020 22:35:57 devpinoyLogger Wpisany postcode to A234wd
+29/06/2020 22:35:57 devpinoyLogger Wcisnięto button 'add customer'
+29/06/2020 22:36:05 devpinoyLogger test execution completed !!!
