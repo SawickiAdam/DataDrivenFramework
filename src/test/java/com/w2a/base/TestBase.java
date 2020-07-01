@@ -52,7 +52,6 @@ public class TestBase {
 			System.getProperty("user.dir") + "\\src\\test\\resources\\excel\\testdata.xlsx");
 	public static WebDriverWait wait;
 
-
 	public static String browser;
 
 
@@ -117,7 +116,7 @@ public class TestBase {
 				// System.setProperty("webdriver.gecko.driver", "gecko.exe");
 				WebDriverManager.firefoxdriver().setup();
 				driver = new FirefoxDriver();
-
+				log.debug("Wybrano przegladarke- Firefox - Launched !!!");
 			} else if (config.getProperty("browser").equals("chrome")) {
 
 				/*System.setProperty("webdriver.chrome.driver",
@@ -125,17 +124,18 @@ public class TestBase {
 			*/	
 				WebDriverManager.chromedriver().setup();
 				driver = new ChromeDriver();
-				log.debug("Chrome Launched !!!");
+				log.debug("Wybrano przegladarke- Chrome - Launched !!!");
 			} else if (config.getProperty("browser").equals("ie")) {
 
 				System.setProperty("webdriver.ie.driver",
 						System.getProperty("user.dir") + "\\src\\test\\resources\\executables\\IEDriverServer.exe");
 				driver = new InternetExplorerDriver();
+				log.debug("Wybrano przegladarke- IExplorer - Launched !!!");
 
 			}
 
 			driver.get(config.getProperty("testsiteurl"));
-			log.debug("Navigated to : " + config.getProperty("testsiteurl"));
+			log.debug("Link URL - Navigated to : " + config.getProperty("testsiteurl"));
 			driver.manage().window().maximize();
 			driver.manage().timeouts().implicitlyWait(Integer.parseInt(config.getProperty("implicit.wait")),
 					TimeUnit.SECONDS);
